@@ -10,6 +10,27 @@
 
 Utilizing technologies like HealthKit, CoreML, and AI-driven predictions, TremorTracker offers a comprehensive suite of tools for tremor management and professional healthcare collaboration.
 
+## Inspiration
+Hand tremors, caused by conditions like Parkinson’s disease, essential tremor, or even anxiety and medications, disrupt daily tasks such as eating, writing, and using a phone. Affecting over 10 million Parkinson’s patients and 5% of people over 65 globally, tremors lead to reduced independence, social isolation, and emotional distress. In fact, over 60% of individuals with tremors report avoiding social situations due to embarrassment. With the prevalence of tremor-related conditions expected to rise, there is a growing need for non-invasive, wearable solutions to enhance motor control and improve quality of life.
+
+## What it does
+The Steady glove is a wearable device designed to suppress hand tremors in real time, offering a practical solution for individuals with Parkinson’s disease, essential tremor, or other conditions that cause involuntary hand movements. The glove uses an MPU6050 accelerometer to continuously monitor and detect tremor patterns along multiple axes. This data is processed by an Arduino-based control system that determines the intensity and direction of the tremors. When detected, reaction wheels driven by DC motors generate precise opposing torque to stabilize the user’s hand and reduce tremor effects.
+
+## How we built it
+We built this device by integrating an Arduino kit into a glove and using accelerometers to detect tremor patterns.
+
+## Challenges we ran into
+As a software-focused team, we ran into our fair share of struggles using these hardware integrations.
+
+## Accomplishments that we're proud of
+We are proud that our accelerometer integration and code are fully functional and our prototype is fully functional.
+
+## What we learned
+We learned a lot working with Arduinos in both the hardware, software, and debugging aspects. Additionally, this being our very first hackathon, we learned a lot about the format of hackathons and the overall workarounds.
+
+## What's next for Steady
+Prototype refinement is going to be the next step for Steady, along with working with usability and feasibility.
+
 ## Some screenshots
 
 <table>
