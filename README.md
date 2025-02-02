@@ -31,7 +31,7 @@ We learned a lot working with Arduinos in both the hardware, software, and debug
 ## What's next for Steady
 Prototype refinement is going to be the next step for Steady, along with working with usability and feasibility.
 
-## Some screenshots
+## The Steady App Modle UI
 
 <table>
   <tr>
