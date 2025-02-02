@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="README%20Files/Logo.png" alt="Logo" width="60%">
+  Hi
 </p>
 
 ![In Progress](https://img.shields.io/badge/status-in%20progress-yellow.svg)
