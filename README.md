@@ -14,10 +14,10 @@ Utilizing technologies like HealthKit, CoreML, and AI-driven predictions, Tremor
 
 <table>
   <tr>
-    <td align="center"><img src="README Files/Home.png" alt="Home" width="200"/><br>Home</td>
-    <td align="center"><img src="README Files/Report.png" alt="Report" width="200"/><br>Report</td>
-    <td align="center"><img src="README Files/Prediction.png" alt="Prediction" width="200"/><br>Prediction</td>
-    <td align="center"><img src="README Files/Connect.png" alt="Connect" width="200"/><br>Connect</td>
+    <td align="center"><img src="Files/Home.png" alt="Home" width="200"/><br>Home</td>
+    <td align="center"><img src="Files/Report.png" alt="Report" width="200"/><br>Report</td>
+    <td align="center"><img src="Files/Prediction.png" alt="Prediction" width="200"/><br>Prediction</td>
+    <td align="center"><img src="Files/Connect.png" alt="Connect" width="200"/><br>Connect</td>
   </tr>
 </table>
 
