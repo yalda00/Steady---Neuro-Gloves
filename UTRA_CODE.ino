@@ -50,8 +50,8 @@ void loop() {
     float tremorX = abs(a.acceleration.x) - baselineX;
     float tremorY = abs(a.acceleration.y) - baselineY;
 
-    if (tremorX > threshold || tremorY > threshold) {
-        int motorSpeed = map(tremorX + tremorY, threshold, 10, 100, 255);
+    if (tremorX > 1 && tremorX < 2 || tremorY > 1 && tremorY < 2) {
+        int motorSpeed = map(tremorX + tremorY, threshold*10, 10, 100, 255);
         motorSpeed = constrain(motorSpeed, 100, 255);
 
         analogWrite(enA, motorSpeed);
