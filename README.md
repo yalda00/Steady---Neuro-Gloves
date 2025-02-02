@@ -16,6 +16,13 @@ Hand tremors, caused by conditions like Parkinson’s disease, essential tremor,
 ## What it does
 The Steady glove is a wearable device designed to suppress hand tremors in real time, offering a practical solution for individuals with Parkinson’s disease, essential tremor, or other conditions that cause involuntary hand movements. The glove uses an MPU6050 accelerometer to continuously monitor and detect tremor patterns along multiple axes. This data is processed by an Arduino-based control system that determines the intensity and direction of the tremors. When detected, reaction wheels driven by DC motors generate precise opposing torque to stabilize the user’s hand and reduce tremor effects.
 
+## Demo Video 🎥
+Check out our prototype in action:
+
+[![Steady Glove Demo](https://img.youtube.com/vi/3dFWXR6gABw/0.jpg)](https://www.youtube.com/shorts/3dFWXR6gABw)
+
+Click the thumbnail or [watch on YouTube](https://www.youtube.com/shorts/3dFWXR6gABw).
+
 ## How we built it
 We built this device by integrating an Arduino kit into a glove and using accelerometers to detect tremor patterns.
 
