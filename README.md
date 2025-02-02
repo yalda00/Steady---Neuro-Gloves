@@ -14,22 +14,10 @@ Utilizing technologies like HealthKit, CoreML, and AI-driven predictions, Tremor
 
 <table>
   <tr>
-    <td align="center"><img src="README Files/Dashboard.png" alt="Dashboard" width="200"/><br>Dashboard</td>
-    <td align="center"><img src="README Files/Profile.png" alt="Profile" width="200"/><br>Profile</td>
-    <td align="center"><img src="README Files/My Doctors.png" alt="My Doctors" width="200"/><br>My Doctors</td>
-    <td align="center"><img src="README Files/Doctor Profile.png" alt="Doctor Profile" width="200"/><br>Doctor Profile</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="README Files/Appointment.png" alt="Appointment" width="200"/><br>Appointment</td>
-    <td align="center"><img src="README Files/Appointments.png" alt="Appointments" width="200"/><br>Appointments</td>
-    <td align="center"><img src="README Files/Tremor Report.png" alt="Tremor Report" width="200"/><br>Tremor Report</td>
-    <td align="center"><img src="README Files/Trend Analysis.png" alt="Trend Analysis" width="200"/><br>Trend Analysis</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="README Files/Sleep.png" alt="Sleep" width="200"/><br>Sleep</td>
-    <td align="center"><img src="README Files/QR.png" alt="QR" width="200"/><br>QR</td>
-    <td align="center"><img src="README Files/Community.png" alt="Community" width="200"/><br>Community</td>
-    <td align="center"><img src="README Files/Education.png" alt="Education" width="200"/><br>Education</td>
+    <td align="center"><img src="README Files/Home.png" alt="Home" width="200"/><br>Home</td>
+    <td align="center"><img src="README Files/Report.png" alt="Report" width="200"/><br>Report</td>
+    <td align="center"><img src="README Files/Prediction.png" alt="Prediction" width="200"/><br>Prediction</td>
+    <td align="center"><img src="README Files/Connect.png" alt="Connect" width="200"/><br>Connect</td>
   </tr>
 </table>
 
