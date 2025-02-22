@@ -2,8 +2,6 @@
   Steady
 </h1>
 
-![In Progress](https://img.shields.io/badge/status-in%20progress-yellow.svg)
-
 # TremorTracker: Advanced Tremor Monitoring & Insights
 
 > **TremorTracker** brings state-of-the-art tremor monitoring, predictive insights, and collaboration with healthcare professionals to your fingertips. This project is actively being developed to empower individuals with actionable data and tools to manage tremor-related conditions effectively.
